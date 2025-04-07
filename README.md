@@ -11,14 +11,15 @@
 взаимоисключающих и комбинированных классов.
 
 _Структура проекта_
-Conversion-to-cart/
+```
+VKR/
 ├──rnd/ 
 │   ├──VKR1.ipynb
 ├── src/
 │   └── 
 ├── .gitignore
 └── requirements.txt
-
+```
 
 
 
